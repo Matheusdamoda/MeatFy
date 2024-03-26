@@ -1,0 +1,2 @@
+LOGIN1=Meatfy
+SENHA1=MEATME
